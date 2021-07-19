@@ -6,11 +6,11 @@
         "Auto",
         "Filter",
         "Telegram Bot",
-        "MoTechYT"
+        "GROOT"
     ],
-    "website": "https://github.com/MRK-YT/",
-    "repository": "https://github.com/MRK-YT/Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/Mo_Tech_YT",
+    "website": "https://github.com/Fgroots/grootv1/",
+    "repository": "https://github.com/Fgroots/grootv1",
+    "success_url": "https://telegram.dog/im_godgroot",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
