@@ -29,9 +29,9 @@ Bot will automatically search for your file and give links to that!
 <b>© @Mo_Tech_YT</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : cinemazip Auto Filter Bot</b>
     
-⭕️<b>Creater :</b> @MRK_YT
+⭕️<b>Creater :</b> @im_godgroot
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
